@@ -1,0 +1,5 @@
+﻿  day6_review.c
+c:\users\paul\workspace\hackerrank\30days\c_solutions\day6_review.c(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\paul\workspace\hackerrank\30days\c_solutions\day6_review.c(44): warning C4133: 'function': incompatible types - from 'int *' to 'const char *'
+c:\users\paul\workspace\hackerrank\30days\c_solutions\day6_review.c(47): warning C4133: 'function': incompatible types - from 'int *' to 'const char *'
+  c_solutions.vcxproj -> C:\Users\Paul\workspace\hackerrank\30days\c_solutions\Debug\c_solutions.exe

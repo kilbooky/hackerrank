@@ -1,0 +1,4 @@
+﻿  day2.c
+c:\users\paul\workspace\hackerrank\30days\2_operators\day2_c\day2.c(30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\paul\workspace\hackerrank\30days\2_operators\day2_c\day2.c(48): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  day2_c.vcxproj -> C:\Users\Paul\workspace\hackerrank\30days\2_operators\day2_c\Debug\day2_c.exe

@@ -1,0 +1,4 @@
+﻿  day0.c
+c:\users\paul\workspace\hackerrank\30days\0\c\day0.c(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  ConsoleApplication1.vcxproj -> C:\Users\Paul\workspace\hackerrank\30days\0\c\ConsoleApplication1\Debug\ConsoleApplication1.exe
